@@ -1,4 +1,5 @@
 #Problem 2839
+#Solved in 3ms
 #https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/?envType=daily-question&envId=2026-03-29
 
 #You are given two strings s1 and s2, both of length 4, consisting of lowercase English letters.
